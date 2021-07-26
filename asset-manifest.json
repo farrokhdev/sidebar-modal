@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sidebar-modal/static/css/main.efe7b2dd.chunk.css",
+    "main.js": "/sidebar-modal/static/js/main.9dff0abf.chunk.js",
+    "main.js.map": "/sidebar-modal/static/js/main.9dff0abf.chunk.js.map",
+    "runtime-main.js": "/sidebar-modal/static/js/runtime-main.9ac0b9ad.js",
+    "runtime-main.js.map": "/sidebar-modal/static/js/runtime-main.9ac0b9ad.js.map",
+    "static/js/2.0e070233.chunk.js": "/sidebar-modal/static/js/2.0e070233.chunk.js",
+    "static/js/2.0e070233.chunk.js.map": "/sidebar-modal/static/js/2.0e070233.chunk.js.map",
+    "index.html": "/sidebar-modal/index.html",
+    "static/css/main.efe7b2dd.chunk.css.map": "/sidebar-modal/static/css/main.efe7b2dd.chunk.css.map",
+    "static/js/2.0e070233.chunk.js.LICENSE.txt": "/sidebar-modal/static/js/2.0e070233.chunk.js.LICENSE.txt",
+    "static/media/logo.f13078c1.svg": "/sidebar-modal/static/media/logo.f13078c1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ac0b9ad.js",
+    "static/js/2.0e070233.chunk.js",
+    "static/css/main.efe7b2dd.chunk.css",
+    "static/js/main.9dff0abf.chunk.js"
+  ]
+}
